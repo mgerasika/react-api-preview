@@ -1,0 +1,10 @@
+/node_modules/
+/coverage/
+/out/
+/.vscode/
+/build/
+/dist/
+/storybook-static/
+.github-personal-access-token.env
+common-v1.0.1.tgz
+oddbox-frontend-common-1.0.1.tgz

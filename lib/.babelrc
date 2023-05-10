@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "@babel/preset-react",
+        "@babel/preset-typescript"
+
+        //https://github.com/storybookjs/storybook/issues/7540
+        //"@emotion/babel-preset-css-prop"
+    ],
+    "plugins": ["@emotion/babel-plugin", "babel-plugin-macros"]
+}

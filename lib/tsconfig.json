@@ -1,0 +1,39 @@
+{
+    "types": ["types", "types/**"],
+    "compilerOptions": {
+        "types": ["@emotion/core", "node", "jest", "cypress", "@types/jest"],
+        "jsxImportSource": "@emotion/react",
+        "target": "ES2015",
+        "lib": ["dom", "dom.iterable", "esnext", "DOM", "ES6", "DOM.Iterable", "ScriptHost", "ES2016.Array.Include"],
+        "outDir": "./dist",
+        "declarationDir": "./dist",
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "react-jsx",
+        "rootDir": "./src",
+        "baseUrl": ".",
+        "allowSyntheticDefaultImports": true,
+        "noFallthroughCasesInSwitch": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "experimentalDecorators": true,
+        "noImplicitAny": false,
+        "noUnusedLocals": false,
+        "sourceMap": true,
+        "declaration": true,
+        "paths": {
+            "@common/*": ["src/*"]
+        }
+    },
+    "exclude": ["node_modules"],
+    "include": ["types/global.d.ts", "types/twin.d.ts", "types/svg.d.ts", "assets/*", "src/**/*.ts", "src/**/*.tsx"]
+}
