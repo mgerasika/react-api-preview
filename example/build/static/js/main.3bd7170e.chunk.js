@@ -1,3 +1,0 @@
-/*! For license information please see main.3bd7170e.chunk.js.LICENSE.txt */
-(this["webpackJsonpoddbox-frontend-npm-usage-example"]=this["webpackJsonpoddbox-frontend-npm-usage-example"]||[]).push([[0],{116:function(e,n){},156:function(e,n,t){"use strict";t.r(n);t(1);var o=t(83),a=t(47),s=t(99),r=t(30);var c=function(){return Object(r.jsxs)("div",{children:[Object(r.jsx)(a.a,{name:"hello",variant:"orange",children:"Orange"}),Object(r.jsx)(o.a,{firstName:"John",lastName:"Dest"}),Object(r.jsx)(s.a,{authentication:"x",showFacebook:!0,showGoogle:!0})]})},i=t(55);t.n(i).a.render(Object(r.jsx)(c,{}),document.getElementById("root"))}},[[156,1,2]]]);
-//# sourceMappingURL=main.3bd7170e.chunk.js.map
