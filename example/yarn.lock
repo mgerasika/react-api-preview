@@ -3358,17 +3358,6 @@
     "@emotion/utils" "0.11.3"
     babel-plugin-emotion "^10.0.27"
 
-"@emotion/css@^11.1.3":
-  version "11.10.5"
-  resolved "https://registry.yarnpkg.com/@emotion/css/-/css-11.10.5.tgz#ca01bb83ce60517bc3a5c01d27ccf552fed84d9d"
-  integrity sha512-maJy0wG82hWsiwfJpc3WrYsyVwUbdu+sdIseKUB+/OLjB8zgc3tqkT6eO0Yt0AhIkJwGGnmMY/xmQwEAgQ4JHA==
-  dependencies:
-    "@emotion/babel-plugin" "^11.10.5"
-    "@emotion/cache" "^11.10.5"
-    "@emotion/serialize" "^1.1.1"
-    "@emotion/sheet" "^1.2.1"
-    "@emotion/utils" "^1.2.0"
-
 "@emotion/hash@0.8.0", "@emotion/hash@^0.8.0":
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/@emotion/hash/-/hash-0.8.0.tgz#bbbff68978fefdbe68ccb533bc8cbe1d1afb5413"
@@ -5638,11 +5627,6 @@
     "@webassemblyjs/ast" "1.9.0"
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
-
-"@what3words/api@^4.0.6":
-  version "4.0.7"
-  resolved "https://registry.yarnpkg.com/@what3words/api/-/api-4.0.7.tgz#d5dc33faa7c8a1838d524aeef973bcb1f4769672"
-  integrity sha512-EZTKnLE62hKOFgpeilUZLrMF/AMHwzceyJtXQmmA7pgQUlNFjoW6LyDi31A9Jn1rpulkagKZ2Kof/C6ZIZ+Xog==
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
