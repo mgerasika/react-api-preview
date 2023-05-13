@@ -1,5 +1,12 @@
 import React from 'react';
-import App from './App';
 import ReactDOM from 'react-dom';
+import { GlobalStyles } from 'twin.macro';
+import App from './App';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+    <>
+        <GlobalStyles />
+        <App />
+    </>,
+    document.getElementById('root'),
+);
