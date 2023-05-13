@@ -1,8 +1,0 @@
-node-modules
-.vscode
-assets
-docker
-*.md
-*.json
-storybook-static
-*.prettier-ignore.tsx
